@@ -1,4 +1,4 @@
-# This python file calculates working days.
+# Calculates working days using Pandas.
 ### Could be used either for full-time or part-time staff, the hours exclude any holidays and can exclude weekends as well.
 
 > A Pandas script is used to create an excel sheet with the specified requirements.
